@@ -1,3 +1,13 @@
+# CODIV-19-TRACKER-REACT
+
+### The Technologies Used :
+  * Tailwindcss
+  * React:
+    * Hooks
+    * Framer motion
+    * chart.js
+    
+    
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
